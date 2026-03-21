@@ -1,7 +1,7 @@
 # Corneal endothelial cell quantification in transmission in vivo imaging (Supporting code)
 
 <p align="center">
-  <img src="docs/figures/overview.png" alt="Overview of corneal endothelial cell quantification workflow" width="700">
+  <img src="ECD processing.png" alt="Overview of corneal endothelial cell quantification workflow" width="700">
 </p>
 
 This repository contains the supporting code for the preprint:
