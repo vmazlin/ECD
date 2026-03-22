@@ -7,6 +7,8 @@
 This repository contains the supporting code for the preprint:
 **"Corneal endothelial cell quantification in transmission in vivo imaging"**.
 
+Preprint for this work is available in this repository: 'Preprint.pdf'
+
 Main notebook for training and inference: `U-net ECD.ipynb`
 
 Weights for U-net denoising (Google Drive): [Denoising](https://drive.google.com/file/d/1zw5k49EKRgnYeDd7PKXh9kMwnlGTavT_/view?usp=sharing)
